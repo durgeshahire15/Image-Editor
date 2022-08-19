@@ -1,0 +1,2 @@
+The libraries required for running the above code include:
+1) OpenCV 2)PIL 3)tkinter 4)numpy 5)Matlplotlib
